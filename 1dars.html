@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>contact_school_uz.com</title>
+
+</head>
+
+<body>
+  <h1><center><strong>Contact School</strong></center></h1>
+  <a href="https:pdp.uz" target="_blank">
+  <img src="./contact.jpg"
+  width="75"></a>
+  <h3><hr><center>Assalomu Aleykum</center></h3>
+  <center><strong>Contact School </strong> o'quv maktabimizga </center>
+  <center><p><h3>Xush Kelibsiz.</p></h3></center>
+     <pre><center>Bizda turli xil kurslarimiz mavjud<strong> INGLIZ TILI, RUS TILI, ARAB TILI, MATEMATIKA, KIMYO </strong> va boshqa turli kurslarimiz mavjud </pre></center>
+    <strong><center>Keling, Oqing va </strong>Bilim maskanidan ,<strong>Bilim oling</strong></p> </center>
+  <pre>
+    <center><h1 style="color: red;">Kurslarga chegirmalar barcha kurslarimiz narxi 350.000 so'm</h1></center>
+    <center><h3>Ingliz tili Aksiya -<strike>450.000 so'm</strike>-22%chegirma</h3></center>
+  </pre>
+    <a href ="tel:712143443" target="_blank">
+      <center><table border="2">
+        <tr>
+            <th>№</th>
+            <th>Kurslar</th>
+            <th>Narxlar</th>
+        </tr>
+        <tr>
+            <th>1</th>
+            <td>Ingliz tili</td>
+            <td>350.000</td>
+            
+        </tr>
+        <tr>
+            <th>2</th>
+            <td>Rus tili</td>
+            <td>350.000</td>
+        </tr>
+        <tr>
+            <th>3</th>
+            <td>Arab tili</td>
+            <td>350.000</td>
+        </tr>
+        <tr>
+            <th>4</th>
+            <td>Matematika</td>
+            <td>350.000</td>
+        </tr>
+        <tr>
+            <th>4</th>
+            <td>Kimyo</td>
+            <td>350.000</td>
+        </tr>
+        </table></center></a>
+ 
+  <center><h4>Biz bilan bog'lanish☎️ </h4>
+  <a href ="tel:712143443">Bizning telefon raqamimiz +712143443</a>
+  
+  <h4> Bizni ishtimoyi tarmoqlarda kuzating👇</h4>
+  <a href="https://instagram.com/contact_school_uz"
+     target="_blank"
+    >
+    Bizning Instagram Kanalimiz</a>
+  <pre><a href="https://tiktok.com/contact_school_uz"
+     target="_blank"
+  >Bizning Tik Tok Kanalimiz
+</a></pre>  
+<pre><a href="https://telegram.com/contact_schooluz"
+  target="_blank"
+>Bizning Telegram Kanalimiz
+</a></pre>
+<h4>Bizning email adresimiz @</h4>
+<a href="mailto:contact_school_uz@gmail.com">Bizning email adresimiz</a></center>
+
+  </body>
+<style>
+  body{
+    background-color: grey;
+  }
+</style>
+</html>
